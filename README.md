@@ -60,3 +60,6 @@ Follow these steps to clone and run the project on your local machine:
 
    ```bash
    git clone https://github.com/Raaghav-1824/register-karo-assignment.git
+   cd tasks-app
+   npm install
+   npm start
