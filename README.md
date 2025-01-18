@@ -1,4 +1,4 @@
-# 📅 Tasks App (To-Do List)
+# 📅 Tasks App (Task Manager)
 
 A task management website built using **React JS**, **TypeScript**, **Tailwind CSS**, **Redux Toolkit**, and other modern tools.
 
