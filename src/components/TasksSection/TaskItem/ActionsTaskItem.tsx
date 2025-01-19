@@ -11,6 +11,7 @@ const ActionsTaskItem: React.FC<{ task: Task; isListInView1: boolean }> = ({
   isListInView1,
 }) => {
   return (
+    
     <motion.div
       className={`flex border-dashed border-slate-200 dark:border-slate-700/[.3] ${
         isListInView1 ? "items-center" : "border-t-2 w-full pt-4 mt-4"
